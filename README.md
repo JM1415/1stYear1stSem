@@ -1,4 +1,4 @@
-# Sanaol001
+# FirstFormalCode
 basic machine problems; the log of 10 (estimate), floor, ceiling and etc
 Machine Problem 1: (Owner: JM15)
 
